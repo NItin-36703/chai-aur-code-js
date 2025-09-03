@@ -16,3 +16,8 @@ console.log(elseId)
 
 //Reference (non primitive)
 //array , objects , functions 
+const heros=["iron man ","thor ","dogesh"];
+let myobj ={name:"nitin" , age :22}
+ const myfn=function()  {console.log("Helooo guys") }
+
+console.log(typeof id);
